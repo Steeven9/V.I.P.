@@ -17,6 +17,9 @@ additional info like biography, inspirational quotes and more!
 
 ## FAQ
 
+### Can I see it in action?
+Yes. Take a look [here](https://xd.adobe.com/view/820a8023-9d70-489d-73ee-ca30038b3491-f43b).
+
 ### Can I contribute?
 Sure thing! Drop us a line at taills(at)usi(dot)ch and we'll get in touch with you.
 
